@@ -1,0 +1,18 @@
+
+.contact{
+    background-image: linear-gradient(65deg,#2AF59D,#009EFD);
+    border-radius: 20px 0 20px 0;
+    border: none;
+    text-align: center;
+    padding-top: 10px 28px;
+}
+ .navbar ul li a{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+.nav-bg{
+    background-image: url("../../../image/images/bg1.png");
+    background-repeat: no-repeat;
+    background-size:640px 420px;
+    background-position: left -380px top -210px;
+}

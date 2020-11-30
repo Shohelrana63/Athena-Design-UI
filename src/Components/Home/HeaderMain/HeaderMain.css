@@ -1,0 +1,35 @@
+
+:root {
+    --title: Yeseva One;
+    --details: Montserrat;
+  }
+h1{
+    font-family: var(--title);
+    color: #0D052E;
+    font-size: 106px;
+    line-height: 80px;
+    margin-bottom: 40px;
+}
+p{
+    font-family: var(--details);
+    font-size: 16px;
+    margin-bottom: 40px;
+
+}
+
+.header-bg{
+    background-image: url("../../../image/images/bg2.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 792px -105px;
+    background-size: 1115px;
+    margin: 70px 0;
+}
+ .btn{
+    font-family: var(--details);
+    border-radius: 50px 0 50px 0;
+    height: 60px;
+    width: 178px;
+    background-image: linear-gradient(45deg,#2AF59D,#009EFD);
+} 
+

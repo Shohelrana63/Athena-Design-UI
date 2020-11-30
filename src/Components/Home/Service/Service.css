@@ -1,0 +1,49 @@
+ .service h3{
+    font-family:"Yeseva One",sans-serif ;
+    color: #0D052E;
+}
+
+.service p{
+    font-family:"Montserrat",sans-serif ;
+    color: #8D8D8D;
+}
+
+.service-bg{
+    background-color:rgb(249, 251, 251);
+    background-size: cover;
+} 
+.service-bg{
+    background: url("../../../image/images/path.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    position: relative;
+    
+}
+.service-card{
+    text-align: center;
+    padding: 30px;
+    border-radius: 70px 0px 70px 0px;
+    transition: .5s;
+}
+.service-card img{
+    width: 100%;
+    margin-bottom: 15px;
+}
+.service-card:hover{
+    text-align: center;
+    border: none;
+    box-shadow: 0 0 12px #b9adad;
+    background-color: #FAFFFD;
+}
+.service-description h5{ 
+    font-family:"Montserrat",sans-serif ; 
+    font-size: 18px;
+    font-weight: bold; 
+    color:  #0D052E;
+}
+.service-description p{
+    font-size: 13px;
+    font-weight: 100;
+}

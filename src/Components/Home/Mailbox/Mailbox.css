@@ -1,0 +1,20 @@
+.mail-title{
+    font-family: "Yeseva One", sans-serif;
+    color:#0D052E;
+}
+.mail-field {
+    max-width: 810px;
+    height: 80px;
+    margin: 0 auto;
+    box-shadow: 2px 2px 10px 4px lightgrey;
+    
+}
+
+.get-started-btn{
+    width: 200px;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    background-image: linear-gradient(45deg,#2AF59D,#009EFD);
+} 

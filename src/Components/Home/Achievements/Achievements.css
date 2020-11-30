@@ -1,0 +1,33 @@
+.img {
+    width: 77px;
+    height: 77px;
+}
+.achievement-title h2{
+    font-family: "Yeseva One", sans-serif;
+    font-size: 48px;
+    color: #0D052E;
+}
+.achievement-title p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+}
+.achievement-text {
+    font-family: "Yeseva One", sans-serif;
+}
+.achievement-section{
+     background: linear-gradient(65deg, rgb(27, 214, 187, 0.1), rgb(8, 174, 234, 0.1));
+     
+}
+.achievement-btn{
+    background-color: white;
+    border-radius: 50px 0px 50px 0px;
+    
+}
+.achievement-btn:hover{
+    text-align: center;
+    border: none;
+    color: white;
+    box-shadow: 0 0 12px #b9adad;
+    background: linear-gradient(65deg, #1BD6BB, #08AEEA);
+    border-radius: 0px 50px 0px 50px;
+}

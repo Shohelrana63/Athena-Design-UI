@@ -1,0 +1,29 @@
+
+#footer a{
+    color: #464646;
+}
+footer{
+    height: 200px;
+}
+.foterLogo{
+    margin-top: 10%;
+    height: 100px;
+}
+.Milions{
+    font-weight: 600;
+}
+.meno-link a{
+    font-family: "Montserrat", sans-serif;
+    color: #464646;
+}
+.footer-list-icon li{
+    list-style: none;
+    margin: 0 10px;
+    overflow: hidden;
+    color:#838585;
+    
+}
+.icon{
+    font-size: 36px!important;
+    width: 30px;
+}
